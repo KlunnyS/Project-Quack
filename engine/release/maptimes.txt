@@ -1,0 +1,2 @@
+"id1/PAK1.PAK/maps/e2m1.bsp" 312.348053 312.348053 32 2
+"id1/PAK0.PAK/maps/start.bsp" 13.8093481 13.8093481 0 0

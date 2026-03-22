@@ -1,0 +1,4 @@
+bind a
+unbind a
+bind a +strafeleft
+quit
